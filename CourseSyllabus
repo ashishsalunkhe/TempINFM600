@@ -1,0 +1,130 @@
+
+```markdown
+# Syllabus for Introduction to Python Programming
+
+## Course Information
+
+**Instructor:** Waqas Shah  
+**Email:** wshah@school.edu
+**Office Hours:** Mondays 3-4PM (or by appointment)   
+**Class Meetings:** Monday & Wednesday 2:30-3:30PM, Room 210
+**Course Dates:** August 28 - December 15, 2023
+
+## Course Description
+
+This is an introductory course on computer programming using the Python language. The course is designed for 8th grade students with no prior programming experience. Over 15 weeks, students will learn fundamental programming concepts like variables, data types, conditionals, loops, functions, and objects. Students will apply their knowledge to create interactive programs and games.
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+- Understand basic programming concepts like variables, data types, conditionals, loops, functions
+- Read, write, and debug basic Python code     
+- Create interactive programs that take user input and produce output   
+- Implement algorithms to solve problems through coding
+- Apply programming skills to build simple games and applications 
+- Work individually and collaboratively on coding projects
+
+## Required Materials    
+
+- Computer with internet access
+- Python 3 interpreter (free download from python.org)     
+- Python IDE like IDLE or PyCharm (free educational licenses available)  
+- Course textbook: *Introduction to Python Programming for Kids* by Jessica Ingrassellino (available in school library)
+
+## Grading     
+
+| Assessment | Percentage |
+|-|-|    
+| Attendance & Participation | 10% |  
+| Weekly Coding Exercises | 30% |    
+| Quizzes | 20% |
+| Midterm Project | 15% |   
+| Final Project | 25% |
+| **Total** | **100%** |
+
+## Weekly Modules
+
+### Week 1: Introduction to Computers and Programming  
+- Computing basics (Textbook Ch. 1)
+- Introduction to programming (Textbook Ch. 2)  
+- Algorithms (Textbook Ch. 3)
+- Python interpreter and IDE setup (Textbook Ch. 4)
+
+### Week 2: Printing and Variables   
+- Basic output with print (Textbook Ch. 5)  
+- Variables and assignment (Textbook Ch. 6)  
+- Strings (Textbook Ch. 7)
+
+### Week 3: Data Types and Operators  
+- Integers, floats (Textbook Ch. 8) 
+- Arithmetic operators (Textbook Ch. 9)
+- Comments (Textbook Ch. 10)
+
+### Week 4: Conditionals and Booleans  
+- Comparison operators (Textbook Ch. 11)  
+- if/else statements (Textbook Ch. 12) 
+- Boolean values (Textbook Ch. 13)
+
+### Week 5: Lists and Tuples
+- Indexing and slicing (Textbook Ch. 14)     
+- Lists vs tuples (Textbook Ch. 15)  
+- List methods (Textbook Ch. 16)
+
+### Week 6: Loops and Iteration
+- for loops (Textbook Ch. 17) 
+- while loops (Textbook Ch. 18)
+- Looping over sequences (Textbook Ch. 19)
+
+### Week 7: Functions   
+- Function definitions (Textbook Ch. 20) 
+- Parameters and arguments (Textbook Ch. 21)   
+- Return values (Textbook Ch. 22)
+
+### Week 8: Strings and Text Processing    
+- String methods (Textbook Ch. 23)  
+- Formatting strings (Textbook Ch. 24) 
+- Regular expressions (Textbook Ch. 25)
+
+### Week 9: Dictionaries and Sets 
+- Dictionaries (Textbook Ch. 26)     
+- Sets (Textbook Ch. 27)  
+- Mutable vs immutable types (Textbook Ch. 28)
+
+### Week 10: File Input/Output   
+- Reading files (Textbook Ch. 29) 
+- Writing files (Textbook Ch. 30)  
+- File modes (Textbook Ch. 31)
+
+### Week 11: Classes and Objects
+- Defining classes (Textbook Ch. 32)  
+- Creating object instances (Textbook Ch. 33)
+- Object methods (Textbook Ch. 34)
+
+### Week 12: Modules and Scope  
+- Importing modules (Textbook Ch. 35) 
+- Namespaces (Textbook Ch. 36)
+- Python standard library (Textbook Ch. 37)
+
+### Week 13: Exceptions and Debugging  
+- Catching exceptions (Textbook Ch. 38)
+- Raising exceptions (Textbook Ch. 39)    
+- Debugging techniques (Textbook Ch. 40)
+
+### Week 14: Final Project Work    
+- Design and plan final program (Textbook Ch. 41)   
+
+### Week 15: Final Project Presentations
+- Present completed programs
+
+## Course Policies
+
+- Assignments are due by 11:59pm on the date listed. Late assignments will receive a 10% deduction per day.      
+- Attendance is mandatory. More than 2 unexcused absences will impact your grade.   
+- Academic integrity is essential. Cheating/plagiarism will result in a zero grade. 
+- Be respectful of classmates. Discrimination/harassment will not be tolerated.    
+- Laptops should only be open when needed for classwork. Phones must be silenced.  
+- Please communicate any questions or issues promptly with the instructor.
+
+Let me know if you have any other questions! I look forward to a great semester of learning Python together.
+```
